@@ -1,4 +1,4 @@
 VotoEletronico
 ==============
 
-Projeto Pessoal de Engenharia de Software - Eleição pela Internet
+Projeto de Engenharia de Software - Eleição pela Internet
